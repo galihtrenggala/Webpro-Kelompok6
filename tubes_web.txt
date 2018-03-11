@@ -1,0 +1,25 @@
+Konten:
+- Pengenalan dan Penggunaan Web [Get Started]
+- Opening Tulisan [Beranda]
+- Tata Cara Pemilu [Tata Cara]
+- Daftar Partai [Daftar Partai]
+- Daftar Calon Pemilu [Daftar Calon]
+- Berita Tentang Pemilu/Politik [Beranda]
+- Daerah Pemilu [Daerah Pemilu]
+- Hasil Akhir [Hasil]
+- Statistik Putaran Pemilihan [Hasil]
+- Data Penduduk [Penduduk]
+- Kontak Pemerintah [Beranda/All Page]
+- Tahapan Pencalon Diri [Tahapan Calon]
+
+Page:
+- Beranda
+- Informasi :
+	> Daftar Partai
+	> Daftar Calon
+	> Penduduk
+	> Daerah Pemilu
+- Tata Cara
+- Tahapan Calon
+- Hasil
+- Get Started (Show-Hide)
